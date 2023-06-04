@@ -1,6 +1,6 @@
-# school_project2
+# Advanced Seat Allocating Program
 
-A new Flutter project.
+part of school project
 
 ## Getting Started
 
